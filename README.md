@@ -1,6 +1,6 @@
 ![](/Image/ProfilGitHub.png)
 
-<h2 align="left">------------------------Programming Language💻------------------------</h2>
+<h2 align="left">Programming Language💻</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">----------------------------------Social Media📞☎️📲📶----------------------------------</h3>
+<h3 align="left">Social Media📞☎️📲📶</h3>
 
 ###
 
