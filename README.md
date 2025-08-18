@@ -1,1 +1,1 @@
-![foto](Image/ProfilGithub.png)
+![foto](Image/ProfilGitHub.png)
