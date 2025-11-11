@@ -7,6 +7,7 @@
 
 <video width="300" autoplay muted loop playsinline>
   <source src="Image/animations.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
 ###
