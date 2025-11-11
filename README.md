@@ -4,6 +4,11 @@
 
 ###
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
 <p align="left">Hi! I'm Nauval 👋  <br>A high school student from SMK Telkom Malang, proudly representing Banyuwangi!  <br>I'm diving into the world of coding and tech — one line at a time.  <br>Currently learning web development, networking, and loving every bit of it! 💻  <br>Let's connect and grow together!</p>
 
 ###
