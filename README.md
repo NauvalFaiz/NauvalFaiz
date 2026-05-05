@@ -1,54 +1,96 @@
-
-![foto](Image/ProfilGitHub.png)
-
-
-
-<h1 align="left">Hello  (●'◡'●) 👋</h1>
-
-###
-
-<video width="300" autoplay muted loop playsinline>
-  <source src="Image/animations.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-###
-<p align="left">Hi! I'm Nauval 👋  <br>A high school student from SMK Telkom Malang, proudly representing Banyuwangi!  <br>I'm diving into the world of coding and tech — one line at a time.  <br>Currently learning web development, networking, and loving every bit of it! 💻  <br>Let's connect and grow together!</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning :<br>'Java' | 'HTML & CSS' | 'Dart & Flutter' | 'Mobile Devloper' | <br>🎯 Goals:<br>- ✅ Menjadi developer handal sebelum lulus SMK  <br>- 🌐 Membuat proyek open source yang bermanfaat  <br>- 🏆 Ikut kompetisi IT tingkat nasional  <br>- 💼 Magang di perusahaan teknologi besar<br>🎲 Fun fact:<br>Asli Banyuwangi salam Osing Deles👋 dan sekarang masih belum punya pacar dan sendirian itu tidak enak karena cukup membosankan bagi saya apa lagi pas saya ngoding pas error gak ada yang semangatin cuman sendirian dan saya suka musik .Feast Hindia Nadin Amizah Bernadya  Dj Viral TikTok dan jika ngoding dengerin lagu itu semua saya fokus dan sampai lupa makan karena tidak ada yang mengiatkan untuk makan</p>
-
-###
-
-<h2 align="left">Language Code</h2>
-
-###
+# Halo! 👋 I'm Nauval (●'◡'●)
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="Image/ProfilGitHub.png" alt="Nauval's Profile" width="200" style="border-radius: 10px;">
 </div>
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  
+  ### Seorang pelajar SMK Telkom Malang dari Banyuwangi 🌏
+  
+  *Belajar coding, menciptakan solusi, dan berkontribusi ke komunitas tech* 💻
+  
+  [![GitHub](https://img.shields.io/github/followers/NauvalFaiz?style=social)](https://github.com/NauvalFaiz)
+  
 </div>
 
-<h3 align="left">🔥   My Stats :</h3>
-###
+---
+
+## 👋 Tentang Saya
+
+Hi! Saya **Nauval**, pelajar SMK Telkom Malang yang berasal dari **Banyuwangi** (Asli Osing! 🏡).
+
+Saya sedang mendalami dunia **web development** dan **mobile development**. Passionate tentang teknologi dan selalu bersemangat belajar hal-hal baru setiap hari.
+
+### ✨ Keunikan Saya:
+- 🎵 **Music Lover** - Suka mendengarkan musik saat coding (Hindia, Nadin Amizah, Bernadya, DJ Viral TikTok)
+- 💡 Musik membantu saya fokus dan produktif (bahkan sampai lupa makan! 😄)
+- 🎯 Termotivasi untuk menjadi developer yang handal
+- 📚 Terus belajar dan berkembang
+
+---
+
+## 🎯 Goals & Aspirasi
+
+- ✅ **Menjadi developer handal sebelum lulus SMK**
+- 🌐 **Membuat proyek open source yang bermanfaat**
+- 🏆 **Ikut kompetisi IT tingkat nasional**
+- 💼 **Magang di perusahaan teknologi besar**
+
+---
+
+## 💻 Skills & Technologies
+
+### **Languages & Frameworks:**
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" title="Java"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" title="Dart"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" title="Flutter"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" title="Android Studio"/>
+</div>
+
+**Sedang Belajar:**
+- Java
+- HTML & CSS
+- Dart & Flutter
+- Mobile Development
+- Web Development
+
+---
+
+## 📊 GitHub Statistics
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=NauvalFaiz&theme=tokyonight&hide_border=true&locale=id&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://github.com/NauvalFaiz)
 
-###
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding animation"/>
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+Saya terbuka untuk kolaborasi, diskusi, dan berbagi ilmu tentang tech! Jangan ragu untuk menghubungi saya:
+
+- 📧 Email: [Tambahkan email kamu di sini]
+- 💼 LinkedIn: [Tambahkan LinkedIn kamu di sini]
+- 🐦 Twitter: [Tambahkan Twitter kamu di sini]
+- 📱 Instagram: [Tambahkan Instagram kamu di sini]
+
+---
+
+## 🎲 Fun Fact
+
+> *Asli Banyuwangi - Salam Osing Deles!* 👋  
+> Musik bukan hanya hiburan bagi saya, tapi teman setia dalam setiap sesi coding. Ketika lagu sedang mengalun, produktivitas meningkat drastis (bahkan sampai lupa makan! 😄). Kalau ada bug, musik jadi semangat untuk terus berjuang!
+
+---
+
+**Made with ❤️ by Nauval**
