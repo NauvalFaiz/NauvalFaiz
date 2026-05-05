@@ -122,9 +122,11 @@ Saya percaya bahwa setiap error adalah pembelajaran, setiap challenge adalah pel
 
 ---
 <p align="center">
-  <a href="https://open.spotify.com/track/ID_LAGU">
-    <img src="https://img.shields.io/badge/🎧%20Play%20Nafas%20-%20Hindia%20%26%20Dipha%20Barus-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  <a href="https://open.spotify.com/album/1GjbkUaBNpuegmGAr9PpFN">
+    <img src="https://img.shields.io/badge/Now%20Playing-Nafas-1DB954?style=for-the-badge&logo=spotify"/>
   </a>
+  <br><br>
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="250"/>
 </p>
 
 <div align="center">
