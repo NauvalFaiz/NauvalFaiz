@@ -41,7 +41,7 @@ Saya adalah seorang pelajar yang antusias dalam dunia teknologi dan programming.
    └─ (Terus berkembang...)
 
 📱 Mobile Development:
-   ├─ Flutter
+   ├─ Flutter <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
    └─ Android Studio
 
 🌐 Web Development:
