@@ -119,6 +119,8 @@ $ echo "Hubungi saya untuk kolaborasi!"
 
 Saya percaya bahwa setiap error adalah pembelajaran, setiap challenge adalah peluang, dan setiap baris code yang saya tulis membawa saya lebih dekat ke goal saya.
 
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=USERNAME&cover_image=true&theme=novatorem)
+
 ---
 
 <div align="center">
