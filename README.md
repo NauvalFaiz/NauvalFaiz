@@ -105,10 +105,9 @@ Saya adalah seorang pelajar yang antusias dalam dunia teknologi dan programming.
 ```bash
 $ echo "Hubungi saya untuk kolaborasi!"
 
-📧 Email     : [tambahkan email]
-💼 LinkedIn  : [tambahkan LinkedIn]
-🐦 Twitter   : [tambahkan Twitter]
-📱 Instagram : [tambahkan Instagram]
+📧 Email     : [hisyamFaiz@307gmail.com]
+💼 LinkedIn  : [https://www.linkedin.com/in/nauval-faiz-0b1436339/]
+📱 Instagram : [@nfaix]
 ```
 
 ---
