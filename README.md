@@ -119,9 +119,13 @@ $ echo "Hubungi saya untuk kolaborasi!"
 
 Saya percaya bahwa setiap error adalah pembelajaran, setiap challenge adalah peluang, dan setiap baris code yang saya tulis membawa saya lebih dekat ke goal saya.
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=USERNAME&cover_image=true&theme=novatorem)
 
 ---
+<p align="center">
+  <a href="https://open.spotify.com/track/ID_LAGU">
+    <img src="https://img.shields.io/badge/🎧%20Play%20Nafas%20-%20Hindia%20%26%20Dipha%20Barus-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+</p>
 
 <div align="center">
   
