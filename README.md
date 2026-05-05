@@ -79,7 +79,11 @@ Saya adalah seorang pelajar yang antusias dalam dunia teknologi dan programming.
 
 ## 📊 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NauvalFaiz&theme=tokyonight&hide_border=true&locale=id&hide_total_contributions=true)](https://github.com/NauvalFaiz)
+<p align="center">
+  <a href="https://github.com/NauvalFaiz">
+    <img src="https://streak-stats.demolab.com?user=NauvalFaiz&theme=tokyonight&hide_border=true&locale=id&hide_total_contributions=true" />
+  </a>
+</p>
 
 <div align="center">
   <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding vibes"/>
