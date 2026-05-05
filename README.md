@@ -1,7 +1,7 @@
 # 👋 Halo, Saya Nauval!
 
 <div align="center">
-  <img src="Image/ProfilGitHub.png" alt="Nauval's Profile" width="150" style="border-radius: 50%; border: 3px solid #00d4ff;">
+  <img src="Image/ProfilGitHub.png" alt="Nauval's Profile" heigth="250" style="border-radius: 50%; border: 3px solid #00d4ff;">
 </div>
 
 > **A passionate learner from SMK Telkom Malang, Banyuwangi** 🌏  
