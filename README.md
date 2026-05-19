@@ -134,7 +134,11 @@ Saya percaya bahwa setiap error adalah pembelajaran, setiap challenge adalah pel
     <img src="https://img.shields.io/badge/🎧%20Play%20Sesi%20Potret-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
-
+<p align="center">
+  <a href="https://open.spotify.com/track/2SmKwCCSiUTjtR8I8rv6MS?si=5013c29b434c4cd8">
+    <img src="https://img.shields.io/badge/🎧%20Berdansalah,%20Karir%20Ini%20Tak%20Ada%20Artinya-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+</p>
 <div align="center">
 
 ### Made with ❤️ & 🎵 by Nauval
