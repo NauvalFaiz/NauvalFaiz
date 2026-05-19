@@ -139,6 +139,11 @@ Saya percaya bahwa setiap error adalah pembelajaran, setiap challenge adalah pel
     <img src="https://img.shields.io/badge/🎧%20Berdansalah,%20Karir%20Ini%20Tak%20Ada%20Artinya-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://open.spotify.com/track/0zAtj0BEvpulETGrk95NPQ?si=5f0e0b4398954fa5">
+    <img src="https://img.shields.io/badge/🎧%20Rayuan%20Perempuan%20Gila-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+</p>
 <div align="center">
 
 ### Made with ❤️ & 🎵 by Nauval
