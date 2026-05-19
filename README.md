@@ -65,7 +65,7 @@ Setiap hari saya berusaha untuk belajar dan menguasai skill baru. Ketika coding,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"/>
 
 </div>
-
+<div align ="center">
 ---
 
 # 🎯 Roadmap & Goals
@@ -78,6 +78,7 @@ Setiap hari saya berusaha untuk belajar dan menguasai skill baru. Ketika coding,
 | Magang di perusahaan teknologi | ⏳ Planned | 2026 |
 
 ---
+</div>
 
 # 📊 GitHub Activity
 
