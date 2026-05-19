@@ -129,6 +129,11 @@ Saya percaya bahwa setiap error adalah pembelajaran, setiap challenge adalah pel
     <img src="https://img.shields.io/badge/🎧%20Play%20Nafas%20Album-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G?si=98e9811848fc46c4">
+    <img src="https://img.shields.io/badge/🎧%20Play%20Nafas%20Album-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+</p>
 
 <div align="center">
 
