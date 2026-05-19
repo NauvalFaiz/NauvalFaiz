@@ -46,6 +46,7 @@ Saya adalah seorang pelajar yang antusias dalam dunia teknologi dan programming.
 ### 📱 Mobile Development
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="40"/>
 
 ---
 
