@@ -124,26 +124,29 @@ Saya percaya bahwa setiap error adalah pembelajaran, setiap challenge adalah pel
 
 ---
 
-<p align="right">
-  <a href="https://open.spotify.com/album/1GjbkUaBNpuegmGAr9PpFN">
-    <img src="https://img.shields.io/badge/🎧%20Play%20Nafas%20Album-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G?si=98e9811848fc46c4">
-    <img src="https://img.shields.io/badge/🎧%20Play%20Sesi%20Potret-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://open.spotify.com/track/2SmKwCCSiUTjtR8I8rv6MS?si=5013c29b434c4cd8">
-    <img src="https://img.shields.io/badge/🎧%20Berdansalah,%20Karir%20Ini%20Tak%20Ada%20Artinya-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://open.spotify.com/track/0zAtj0BEvpulETGrk95NPQ?si=5f0e0b4398954fa5">
-    <img src="https://img.shields.io/badge/🎧%20Rayuan%20Perempuan%20Gila-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="https://open.spotify.com/album/1GjbkUaBNpuegmGAr9PpFN">
+  <img src="https://img.shields.io/badge/🎧%20Play%20Nafas%20Album-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G?si=98e9811848fc46c4">
+  <img src="https://img.shields.io/badge/🎵%20Sesi%20Potret-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<a href="https://open.spotify.com/track/2SmKwCCSiUTjtR8I8rv6MS?si=5013c29b434c4cd8">
+  <img src="https://img.shields.io/badge/🎧%20Berdansalah,%20Karir%20Ini%20Tak%20Ada%20Artinya-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://open.spotify.com/track/0zAtj0BEvpulETGrk95NPQ?si=5f0e0b4398954fa5">
+  <img src="https://img.shields.io/badge/💚%20Rayuan%20Perempuan%20Gila-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+</div>
 <div align="center">
 
 ### Made with ❤️ & 🎵 by Nauval
