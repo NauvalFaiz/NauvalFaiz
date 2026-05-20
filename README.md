@@ -141,6 +141,9 @@ Saya percaya bahwa:
 <a href="https://open.spotify.com/album/1GjbkUaBNpuegmGAr9PpFN">
   <img src="https://img.shields.io/badge/🎧%20Play%20Nafas%20Album-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
+<a href="https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD?si=9f1787dddc1b4d98">
+  <img src="https://img.shields.io/badge/🎵%20Risk%20it%20All-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
 
 <br><br>
 
