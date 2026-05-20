@@ -154,6 +154,9 @@ Saya percaya bahwa:
 <a href="https://open.spotify.com/track/2SmKwCCSiUTjtR8I8rv6MS?si=5013c29b434c4cd8">
   <img src="https://img.shields.io/badge/🎧%20Berdansalah,%20Karir%20Ini%20Tak%20Ada%20Artinya-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
+<a href="https://open.spotify.com/track/4J9DouSADdyakPD9h6oD6N?si=6c91b745dda24c25">
+  <img src="https://img.shields.io/badge/🎵%20Kita%20Buat%20Menyenangkan-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
 
 <br><br>
 
