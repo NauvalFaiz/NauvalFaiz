@@ -15,6 +15,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/NauvalFaiz?style=for-the-badge&logo=github&color=00d4ff)](https://github.com/NauvalFaiz)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NauvalFaiz.NauvalFaiz)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NauvalFaiz.app-kasir-laundry-prakarya-kewirausahaan)
 
 </div>
 
