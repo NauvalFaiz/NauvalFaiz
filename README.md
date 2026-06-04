@@ -90,7 +90,7 @@ Bagi saya, coding bukan hanya sekadar menulis baris code, tetapi juga tentang me
 
 # 📊 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NauvalFaiz&theme=dark&border_radius=5.1&locale=id&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=NauvalFaiz&theme=dark&border_radius=5.1&locale=id)](https://git.io/streak-stats)
 
 <div align="center">
   <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding vibes"/>
