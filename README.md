@@ -91,9 +91,7 @@ Bagi saya, coding bukan hanya sekadar menulis baris code, tetapi juga tentang me
 # 📊 GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/NauvalFaiz">
-    <img src="https://streak-stats.demolab.com?user=NauvalFaiz&theme=tokyonight&hide_border=true&locale=id&hide_total_contributions=true" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NauvalFaiz&theme=dark&border_radius=5.1&locale=id&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" /></a>
 </p>
 
 <div align="center">
