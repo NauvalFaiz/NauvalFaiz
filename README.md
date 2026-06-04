@@ -90,10 +90,8 @@ Bagi saya, coding bukan hanya sekadar menulis baris code, tetapi juga tentang me
 
 # 📊 GitHub Activity
 
-# 📊 GitHub Activity
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NauvalFaiz&theme=dark&border_radius=5.1&locale=id" />
+  <img src="https://streak-stats.demolab.com?user=NauvalFaiz&theme=dark&border_radius=5.1&locale=id&v=1" />
 </div>
 
 <div align="center">
