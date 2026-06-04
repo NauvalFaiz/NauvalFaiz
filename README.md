@@ -1,4 +1,4 @@
-# 👋 Halo, Saya Nauval!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nauval+Faiz+Luthf+Hisyam;Passionate+Mobile+Developer)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="Image/ProfilGitHub.png" alt="Nauval's Profile" height="250" style="border-radius: 50%; border: 3px solid #00d4ff;" />
