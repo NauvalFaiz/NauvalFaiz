@@ -14,8 +14,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/NauvalFaiz?style=for-the-badge&logo=github&color=00d4ff)](https://github.com/NauvalFaiz)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NauvalFaiz.NauvalFaiz)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NauvalFaiz.app-kasir-laundry-prakarya-kewirausahaan)
-![lucu](https://custom-icon-badges.demolab.com/badge/Code-blue?logo=code&logoSource=feather&logoColor=white)</div>
-
+![?logo=lucum](https://custom-icon-badges.demolab.com/badge/lucu-blue?logo=code&logoSource=feather&logoColor=white)
 ---
 
 # 👨‍💻 Tentang Saya
