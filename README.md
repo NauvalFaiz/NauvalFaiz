@@ -14,7 +14,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/NauvalFaiz?style=for-the-badge&logo=github&color=00d4ff)](https://github.com/NauvalFaiz)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NauvalFaiz.NauvalFaiz)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NauvalFaiz.app-kasir-laundry-prakarya-kewirausahaan)
-![Flutter](https://custom-icon-badges.demolab.com/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![lucu](https://custom-icon-badges.demolab.com/badge/Flutter-02569B?logo=flutter&logoColor=white)
 </div>
 
 ---
