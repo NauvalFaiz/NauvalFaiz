@@ -169,5 +169,6 @@ Saya percaya bahwa:
 
 ### ✨ Made with ❤️ & 🎵 by Nauval ✨
 
-<p>Last updated: <script>document.write(new Date().getFullYear())</script></p>
+![GitHub last commit](https://img.shields.io/github/last-commit/NauvalFaiz/NauvalFaiz)
+
 </div>
