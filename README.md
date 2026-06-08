@@ -169,6 +169,5 @@ Saya percaya bahwa:
 
 ### ✨ Made with ❤️ & 🎵 by Nauval ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=NauvalFaiz)
-
+<p>Last updated: <script>document.write(new Date().getFullYear())</script></p>
 </div>
