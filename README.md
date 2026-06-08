@@ -10,6 +10,7 @@
 
 > ### 🚀 *A passionate learner from SMK Telkom Malang, Banyuwangi* 🌏  
 > *Crafting code, building solutions, and contributing to the tech community*
+
 [![GitHub followers](https://img.shields.io/github/followers/NauvalFaiz?style=for-the-badge&logo=github&color=00d4ff)](https://github.com/NauvalFaiz)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NauvalFaiz.NauvalFaiz)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NauvalFaiz.app-kasir-laundry-prakarya-kewirausahaan)
