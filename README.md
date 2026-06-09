@@ -51,7 +51,7 @@ Bagi saya, coding bukan hanya sekadar menulis baris code, tetapi juga tentang me
 
 ## 🌐 Web Development
 
-<img src="https://cdn.simpleicons.org/nextdotjs/000000" height="45" color="white"/>
+<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="45" />
 <img src="https://cdn.simpleicons.org/react/61DAFB" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
