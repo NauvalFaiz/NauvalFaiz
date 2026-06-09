@@ -111,8 +111,9 @@ Bagi saya, coding bukan hanya sekadar menulis baris code, tetapi juga tentang me
 |---------|---------|
 | 📧 Email | hisyamfaiz307@gmail.com |
 | 💼 LinkedIn | https://www.linkedin.com/in/nauval-faiz-0b1436339/ |
-| [![Instagram](https://shields.io)](https://instagram.com)
- Instagram | @nfaix |
+| <a href="https://instagram.com" target="_blank">
+  <img src="https://githubusercontent.com" width="30" height="30" alt="Instagram" />
+</a>Instagram | @nfaix |
 
 ---
 
