@@ -84,7 +84,7 @@ Bagi saya, coding bukan hanya sekadar menulis baris code, tetapi juga tentang me
 
 ---
 
-#  GitHub Activity
+# GitHub Activity
 <div align="center">
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NauvalFaiz&theme=github" />
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NauvalFaiz&theme=github" />
