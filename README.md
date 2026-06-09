@@ -8,169 +8,201 @@
 
 <div align="center">
 
-> ### 🚀 *A passionate learner from SMK Telkom Malang, Banyuwangi* 🌏  
-> *Crafting code, building solutions, and contributing to the tech community*
+> ### _A passionate learner from SMK Telkom Malang, Banyuwangi_
+>
+> _Crafting code, building solutions, and contributing to the tech community_
 
 [![GitHub followers](https://img.shields.io/github/followers/NauvalFaiz?style=for-the-badge&logo=github&color=00d4ff)](https://github.com/NauvalFaiz)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NauvalFaiz.NauvalFaiz)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=NauvalFaiz.app-kasir-laundry-prakarya-kewirausahaan)
 ![?logo=lucum](https://custom-icon-badges.demolab.com/badge/lucu-blue?logo=code&logoSource=feather&logoColor=white)
+
 ---
 
-# 👨‍💻 Tentang Saya
-
-```yaml
-🎓 Status  : Pelajar SMK Telkom Malang
-📍 Asal    : Banyuwangi, Jawa Timur
-🔥 Passion : Web & Mobile Development
-🎵 Mood    : Coding + Music = Fokus Maksimal
-```
-
+<p>
 Saya adalah seorang pelajar yang sangat antusias dalam dunia teknologi dan pemrograman.  
 Bagi saya, coding bukan hanya sekadar menulis baris code, tetapi juga tentang membangun solusi, belajar dari error, dan berkembang setiap harinya.
 
-🎧 Musik menjadi teman terbaik saya ketika coding — membantu saya tetap fokus, tenang, dan produktif.
+Musik menjadi teman terbaik saya ketika coding — membantu saya tetap fokus, tenang, dan produktif.
 
-> ### 💭 Tagline Favorit
-> *"Sendirian? Ya, tapi tidak kesepian ketika ada musik dan code untuk dikerjakan!"*
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-## 📱 Mobile Development
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45"/>
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="45"/>
+</p>
 
 ---
 
-## 🌐 Web Development
+## Languages & Tools
 
-<img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" height="45" />
-<img src="https://cdn.simpleicons.org/react/61DAFB" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45"/>
+<p align="center">
 
----
+<a href="https://flutter.dev/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="40" height="40" />
+</a>&nbsp;
 
-## 🧰 Tools & IDE
+<a href="https://dart.dev/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="40" height="40" />
+</a>&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45"/>
+<a href="https://react.dev/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="40" height="40" />
+</a>&nbsp;
 
-</div>
+<a href="https://nextjs.org/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="Next.js" title="Next.js" width="40" height="40" />
+</a>&nbsp;
 
----
+<a href="https://laravel.com/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="40" height="40" />
+</a>&nbsp;
 
-# 🎯 Roadmap & Goals
+<a href="https://www.mysql.com/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="40" height="40" />
+</a>&nbsp;
 
-<div align="center">
+<a href="https://supabase.com/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="40" height="40" />
+</a>&nbsp;
 
-| 🎯 Goal | 📌 Status | 📅 Timeline |
-|---------|-----------|-------------|
-| Menjadi developer handal | 🔄 In Progress | Sebelum lulus SMK |
-| Membuat proyek open source | ⏳ Planned | 2026 |
-| Mengikuti kompetisi IT nasional | ⏳ Planned | 2026 |
-| Magang di perusahaan teknologi | ⏳ Planned | 2026 |
+<a href="https://developer.android.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" title="Android" width="40" height="40" />
+</a>&nbsp;
 
-</div>
+<a href="https://git-scm.com/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="40" height="40" />
+</a>&nbsp;
+
+<a href="https://code.visualstudio.com/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40" />
+</a>&nbsp;
+
+<a href="https://developer.android.com/studio">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" width="40" height="40" />
+</a>
+
+</p>
 
 ---
 
 # GitHub Activity
+
 <div align="center">
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NauvalFaiz&theme=github" />
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NauvalFaiz&theme=github" />
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NauvalFaiz&theme=github" />
 <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NauvalFaiz&theme=github&utcOffset=7" />
 <img width="40%" src="https://streak-stats.demolab.com?user=NauvalFaiz&theme=github&border_radius=5.1&locale=id&v=1" />
+
 </div>
 
 ---
 
-# 🎵 Fun Facts About Me
+<h2 align="center">🤝 Connect With Me</h2>
 
-- 🎧 **Music Junkie** — Sering mendengarkan lagu dari **Hindia**, **Nadin Amizah**, **Bernadya**, hingga DJ viral TikTok saat coding
-- 🍚 **Sering Lupa Makan** — Ketika sedang fokus coding sambil mendengarkan musik 😂
-- 📍 **Asli Osing** — “Salam Osing Deles!” 👋
-- 💪 **Pantang Menyerah** — Bug adalah tantangan yang harus ditaklukkan
+<p align="center">
 
----
+<a href="mailto:hisyamfaiz307@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-# 🤝 Mari Terhubung!
+<a href="https://www.linkedin.com/in/nauval-faiz-0b1436339/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-| Kontak | Detail |
-|---------|---------|
-| 📧 Email | hisyamfaiz307@gmail.com |
-| 💼 LinkedIn | https://www.linkedin.com/in/nauval-faiz-0b1436339/ |
-| <a href="https://instagram.com" target="_blank">
-  <img src="https://githubusercontent.com" width="30" height="30" alt="Instagram" />
-</a>Instagram | @nfaix |
+<a href="https://instagram.com/nfaix">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="https://github.com/NauvalFaiz">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</p>
 
 ---
 
 # 💡 Philosophy
 
-> *"Coding adalah seni, musik adalah jiwa, dan kombinasi keduanya adalah keajaiban."*
+> _"Coding adalah seni, musik adalah jiwa, dan kombinasi keduanya adalah keajaiban."_
 
 Saya percaya bahwa:
+
 - setiap error adalah pembelajaran,
 - setiap challenge adalah peluang,
 - dan setiap baris code membawa saya lebih dekat menuju tujuan saya.
 
 ---
 
-# 🎶 Current Coding Playlist
+# Current Coding Playlist
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center">
 
 <a href="https://open.spotify.com/album/1GjbkUaBNpuegmGAr9PpFN">
   <img src="https://img.shields.io/badge/🎧%20Play%20Nafas%20Album-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
-<a href="https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD?si=9f1787dddc1b4d98">
+
+</td>
+<td align="center">
+
+<a href="https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD">
   <img src="https://img.shields.io/badge/🎵%20Risk%20it%20All-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 
-<br><br>
+</td>
+</tr>
 
-<a href="https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G?si=98e9811848fc46c4">
+<tr>
+<td align="center">
+
+<a href="https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G">
   <img src="https://img.shields.io/badge/🎵%20Sesi%20Potret-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
-<a href="https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk?si=1775c993c7394d2f">
+
+</td>
+<td align="center">
+
+<a href="https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk">
   <img src="https://img.shields.io/badge/🎵%20Beauty%20and%20A%20Beat-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 
-<a href="https://open.spotify.com/track/2SmKwCCSiUTjtR8I8rv6MS?si=5013c29b434c4cd8">
-  <img src="https://img.shields.io/badge/🎧%20Berdansalah,%20Karir%20Ini%20Tak%20Ada%20Artinya-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<a href="https://open.spotify.com/track/2SmKwCCSiUTjtR8I8rv6MS">
+  <img src="https://img.shields.io/badge/🎧%20Berdansalah%20Karir%20Ini-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
-<a href="https://open.spotify.com/track/4J9DouSADdyakPD9h6oD6N?si=6c91b745dda24c25">
+
+</td>
+<td align="center">
+
+<a href="https://open.spotify.com/track/4J9DouSADdyakPD9h6oD6N">
   <img src="https://img.shields.io/badge/🎵%20Kita%20Buat%20Menyenangkan-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 
-<br><br>
+</td>
+</tr>
 
-<a href="https://open.spotify.com/track/0zAtj0BEvpulETGrk95NPQ?si=5f0e0b4398954fa5">
+<tr>
+<td colspan="2" align="center">
+
+<a href="https://open.spotify.com/track/0zAtj0BEvpulETGrk95NPQ">
   <img src="https://img.shields.io/badge/💚%20Rayuan%20Perempuan%20Gila-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
 </a>
 
-</div>
-<p align="left">
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" alt="Swift" title="Swift" width="36" height="36" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
-</p>
+</td>
+</tr>
+</table>
 
-https://github-readme-stats.vercel.app/api?username=NauvalFaiz
+</div>
+
 ---
 
 <div align="center">
 
-### ✨ Made with ❤️ & 🎵 by Nauval ✨
-
+### Made with  &  by Nauval 
 
 </div>
