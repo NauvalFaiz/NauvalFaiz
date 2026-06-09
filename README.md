@@ -92,7 +92,7 @@ Bagi saya, coding bukan hanya sekadar menulis baris code, tetapi juga tentang me
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NauvalFaiz&layout=compact&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com?user=NauvalFaiz&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NauvalFaiz&layout=donut&theme=tokyonight&langs_count=10"/>
 
 </div>
 ---
