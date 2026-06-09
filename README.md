@@ -88,11 +88,12 @@ Bagi saya, coding bukan hanya sekadar menulis baris code, tetapi juga tentang me
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NauvalFaiz&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NauvalFaiz&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NauvalFaiz&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=NauvalFaiz&theme=tokyonight&hide_border=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NauvalFaiz&layout=pie&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NauvalFaiz&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
 </div>
 ---
 
