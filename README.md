@@ -90,7 +90,7 @@ Bagi saya, coding bukan hanya sekadar menulis baris code, tetapi juga tentang me
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NauvalFaiz&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com?user=NauvalFaiz&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://streak-stats.demolab.com?user=NauvalFaiz&theme=dark&border_radius=5.1&locale=id&v=1" height="170" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NauvalFaiz&theme=tokyonight" />
 
