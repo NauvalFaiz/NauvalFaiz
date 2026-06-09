@@ -107,13 +107,11 @@ Bagi saya, coding bukan hanya sekadar menulis baris code, tetapi juga tentang me
 
 # 🤝 Mari Terhubung!
 
-```bash
-$ echo "Hubungi saya untuk kolaborasi!"
-
-📧 Email     : hisyamfaiz307@gmail.com
-💼 LinkedIn  : https://www.linkedin.com/in/nauval-faiz-0b1436339/
-📱 Instagram : @nfaix
-```
+| Kontak | Detail |
+|---------|---------|
+| 📧 Email | hisyamfaiz307@gmail.com |
+| 💼 LinkedIn | https://www.linkedin.com/in/nauval-faiz-0b1436339/ |
+| 📱 Instagram | @nfaix |
 
 ---
 
