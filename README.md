@@ -88,11 +88,11 @@ Bagi saya, coding bukan hanya sekadar menulis baris code, tetapi juga tentang me
 
 <div align="center">
 
-<img width="20%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NauvalFaiz&theme=github" />
-<img width="20%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NauvalFaiz&theme=github" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NauvalFaiz&theme=github" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NauvalFaiz&theme=github" />
 
-<img width="20%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NauvalFaiz&theme=github" />
-<img width="20%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NauvalFaiz&theme=github&utcOffset=7" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NauvalFaiz&theme=github" />
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NauvalFaiz&theme=github&utcOffset=7" />
 
 <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NauvalFaiz&theme=github" />
 
