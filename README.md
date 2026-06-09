@@ -120,7 +120,7 @@ Musik menjadi teman terbaik saya ketika coding — membantu saya tetap fokus, te
 
 # 💡 Philosophy
 
-> _"Coding adalah seni, musik adalah jiwa, dan kombinasi keduanya adalah keajaiban."_
+> _"Coding adalah seni, musik adalah jiwa, dan kombinasi keduanya adalah kejutan."_
 
 Saya percaya bahwa:
 
