@@ -94,9 +94,9 @@ Bagi saya, coding bukan hanya sekadar menulis baris code, tetapi juga tentang me
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NauvalFaiz&theme=github" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NauvalFaiz&theme=github&utcOffset=7" />
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NauvalFaiz&theme=github" />
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NauvalFaiz&theme=github" />
 
-<img width="98%" src="https://streak-stats.demolab.com?user=NauvalFaiz&theme=github&border_radius=5.1&locale=id&v=1" />
+<img width="60%" src="https://streak-stats.demolab.com?user=NauvalFaiz&theme=github&border_radius=5.1&locale=id&v=1" />
 </div>
 ---
 
