@@ -2,25 +2,23 @@
 
 <p align="center">
   <picture>
-    <!-- Mobile Dark -->
     <source
       media="(max-width: 760px) and (prefers-color-scheme: dark)"
       srcset="./assets/hero/agent-console-v5-mobile-dark.svg">
     <source
       media="(max-width: 760px) and (prefers-color-scheme: light)"
       srcset="./assets/hero/agent-console-v5-mobile-light.svg">
-        <!-- Desktop Dark -->
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./assets/hero/agent-console-v5-dark.svg"> <!-- Desktop Light -->
+      srcset="./assets/hero/agent-console-v5-dark.svg">
     <source
       media="(prefers-color-scheme: light)"
       srcset="./assets/hero/agent-console-v5-light.svg">
-    <!-- Fallback -->
     <img
       src="./assets/hero/agent-console-v5-light.svg"
       alt="Nauval Faiz Hero Banner"
       width="100%">
+
   </picture>
 </p>
 
@@ -223,6 +221,6 @@ Saya percaya bahwa:
 
 <div align="center">
 
-### Made with  &  by Nauval 
+### Made with & by Nauval
 
 </div>
