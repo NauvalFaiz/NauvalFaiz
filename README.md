@@ -7,14 +7,16 @@
       media="(max-width: 760px) and (prefers-color-scheme: dark)"
       srcset="./assets/hero/agent-console-v5-mobile-dark.svg">
     <source
-      media="(max-width: 760px)"
+      media="(max-width: 760px) and (prefers-color-scheme: light)"
       srcset="./assets/hero/agent-console-v5-mobile-light.svg">
+        <!-- Desktop Dark -->
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./assets/hero/agent-console-v5-dark.svg">
+      srcset="./assets/hero/agent-console-v5-dark.svg"> <!-- Desktop Light -->
     <source
       media="(prefers-color-scheme: light)"
       srcset="./assets/hero/agent-console-v5-light.svg">
+    <!-- Fallback -->
     <img
       src="./assets/hero/agent-console-v5-light.svg"
       alt="Nauval Faiz Hero Banner"
