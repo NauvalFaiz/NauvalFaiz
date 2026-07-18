@@ -1,8 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nauval+Faiz+Luthf+Hisyam;Passionate+Mobile+Developer)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="Image/ProfilGitHub.png" alt="Nauval's Profile" height="250" style="border-radius: 50%; border: 3px solid #00d4ff;" />
-</div>
+<p align="center">
+  <picture>
+    <!-- Mobile Dark -->
+    <source
+      media="(max-width: 760px) and (prefers-color-scheme: dark)"
+      srcset="./assets/hero/agent-console-v5-mobile-dark.svg">
+    <source
+      media="(max-width: 760px)"
+      srcset="./assets/hero/agent-console-v5-mobile-light.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/hero/agent-console-v5-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/hero/agent-console-v5-light.svg">
+    <img
+      src="./assets/hero/agent-console-v5-light.svg"
+      alt="Nauval Faiz Hero Banner"
+      width="100%">
+  </picture>
+</p>
 
 <br>
 
