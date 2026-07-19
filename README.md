@@ -26,7 +26,7 @@
 
 <div align="center">
 
-> ### _A passionate learner from SMK Telkom Malang, Banyuwangi_
+> ### _A passionate learner from SMK Telkom Malang, 
 >
 > _Crafting code, building solutions, and contributing to the tech community_
 
